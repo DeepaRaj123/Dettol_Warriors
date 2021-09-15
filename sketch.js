@@ -455,7 +455,7 @@ function draw() {
 
             }
 
-            if(score === 2)
+            if(score === 20)
             {
                 player.scale = 0;
                 bullett.scale = 0;
