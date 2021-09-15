@@ -96,7 +96,7 @@ function preload() {
     playButtonImage = loadImage("./playButton.png");
     bulletImg = loadImage("./bullet1.png")
     bulletImg1 = loadImage("./bulletcount.png")
-    healthImg = loadImage("./health.png")
+    healthImg = loadImage("./Health.png")
     scoreboardImg = loadImage("./score.png")
     replayImg = loadImage("./replay1.png")
     levelcompletedImg = loadImage("./levelcompleted.png")
